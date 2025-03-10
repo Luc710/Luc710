@@ -1,5 +1,16 @@
-<h1>Lucas Cauã<h1>
+<h1># 👋 Olá! Me chamo Lucas Cauã!
 
-<p>este é o meu texto de apresentação</p>
+🌎 Moro em SPP  
 
-<p>Tchau!</p>
+## 📚 Cursos que já fiz:
+- 💊 Atendente de farmácia  
+- ⛽ Frentista  
+- 🏪 Operador de caixa  
+- ⚡ Eletricista rural  
+
+## 🔧 Tecnologias e Ferramentas que estou aprendendo:
+- 🖥️ Linux  
+- 📊 Criptomoedas (Bitcoin e Ethereum)  
+- 💻 Programação (ainda iniciando)  
+
+✉️ Entre em contato comigo pelo GitHub! 😃<h1>
