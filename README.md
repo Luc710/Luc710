@@ -3,9 +3,12 @@
 🌎 Moro em SPP  
 
  📚 Cursos que já fiz:
+- 👓 Atendente de ótica 
 - 💊 Atendente de farmácia  
-- ⛽ Frentista  
-- 🏪 Operador de caixa  
+- ⛽ Frentista
+- 💰 operador lotérico
+- 🏪 Operador de caixa
+- 🖥️ Programador Web 
 - ⚡ Eletricista rural  
 
  🔧 Tecnologias e Ferramentas que estou aprendendo:
